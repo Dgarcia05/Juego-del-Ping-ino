@@ -1,5 +1,5 @@
 package pinguino;
-
+//hola
 import java.util.Random;
 
 public class dado {
